@@ -1,0 +1,13 @@
+{
+"companyName": "Three Eyed Games",
+"productName": "Jumping Cater P.",
+"dataUrl": "Jumping Cater P Webgl.data.unityweb",
+"asmCodeUrl": "Jumping Cater P Webgl.asm.code.unityweb",
+"asmMemoryUrl": "Jumping Cater P Webgl.asm.memory.unityweb",
+"asmFrameworkUrl": "Jumping Cater P Webgl.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#093263"
+}
